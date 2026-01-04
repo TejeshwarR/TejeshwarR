@@ -24,6 +24,7 @@ Feel free to **check out my repositories** to see hands-on projects in **Power B
 
 ## 📬 Contact Me
  📞 **+91-8549977959**  
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejeshwarr) https://linkedin.com/in/tejeshwarr
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejesravi45@gmail.com) tejesravi45@gmail.com
