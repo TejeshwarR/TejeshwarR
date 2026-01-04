@@ -13,9 +13,11 @@ My core background is in **insurance analytics**, where I’ve worked on:
 
 ### 🎯 What I’m Looking For
 I’m currently **open to Data Analyst opportunities** where I can:
-- Build impactful dashboards and reports  
-- Work with cross-functional stakeholders  
-- Apply analytics to solve real-world business problems  
+- Extract data from **databases, files, and APIs** using SQL and Python  
+- **Clean, transform, and validate raw data** to ensure accuracy and usability  
+- Build **meaningful, business-driven dashboards** in Power BI and Excel  
+- Convert complex datasets into **clear, actionable insights** for stakeholders  
+- Work closely with business teams to support **data-driven decision-making**
 
 ### 📊 Explore My Work
 Feel free to **check out my repositories** to see hands-on projects in **Power BI, Python, SQL, EXCEL and domain-focused analytics**, including insurance, retail, and sales use cases.
