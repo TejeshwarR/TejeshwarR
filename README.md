@@ -10,15 +10,6 @@ My core background is in **insurance analytics**, where I’ve worked on:
 - Performing **EDA and Feature Engineering in Python** to validate business assumptions  
 - Creating **Excel-based analytical models** using **advanced formulas, Pivot Tables, and Pivot Charts**
 
-I focus on **business-first analytics**—not just visualizing data, but explaining *why* trends occur and how insights can drive better decisions.
-
-While my primary experience is in insurance, I’m **actively open to working across other domains** such as **Retail, Sales, Ecommerce, and Operations**, applying the same analytical thinking to solve domain-specific problems.
-
-### 🔧 Skills & Tools
-- **BI & Visualization:** Power BI (DAX, Data Modeling, Star Schema)  
-- **Data Analysis:** SQL, Excel (Advanced formulas, Pivot Tables)  
-- **Programming:** Python (Pandas, NumPy, SciPy)  
-- **Analytics Concepts:** KPI Reporting, EDA, Hypothesis Testing, Statistics  
 
 ### 🎯 What I’m Looking For
 I’m currently **open to Data Analyst opportunities** where I can:
