@@ -13,7 +13,7 @@ My core background is in **insurance analytics**, where I’ve worked on:
 
 ### 🎯 What I’m Looking For
 I’m currently **open to Data Analyst opportunities** where I can:
-- Extract data from **databases, files, and APIs** using SQL and Python  
+- Extract data from **databases and files** using SQL and Python  
 - **Clean, transform, and validate raw data** to ensure accuracy and usability  
 - Build **meaningful, business-driven dashboards** in Power BI and Excel  
 - Convert complex datasets into **clear, actionable insights** for stakeholders  
